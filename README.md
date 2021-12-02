@@ -31,3 +31,5 @@ print('{:.2f}'.format(val))
 
 
 ### RESULT:
+Thus,the distance two 2 points is obtained
+
